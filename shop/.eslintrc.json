@@ -1,0 +1,8 @@
+{
+  "extends": ["next/babel", "next/core-web-vitals"]
+}
+
+//.babelrc 
+// {
+//     "presets": ['next/babel',"@babel/preset-react"]
+// }
